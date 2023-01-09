@@ -1,1 +1,3 @@
-class BSTSearch
+class BSTSearch {
+    
+}
